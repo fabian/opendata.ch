@@ -45,8 +45,8 @@
         "sass": "^1.23.7",
         "vinyl-buffer": "^1.0.1",
         "vinyl-source-stream": "^2.0.0",
-        "webpack": "^4.41.5",
-        "webpack-stream": "^5.2.1"
+        "webpack": "^5.75.0",
+        "webpack-stream": "^7.0.0"
     },
     "dependencies": {
         "chocolat": "^1.0.3",
