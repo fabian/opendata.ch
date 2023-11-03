@@ -40,7 +40,7 @@
         "gulp-sourcemaps": "^3.0.0",
         "gulp-svg-sprite": "^1.5.0",
         "gulp-uglify": "^3.0.2",
-        "node-sass": "^4.13.0",
+        "node-sass": "^7.0.0",
         "rollup": "^2.40.0",
         "sass": "^1.23.7",
         "vinyl-buffer": "^1.0.1",
